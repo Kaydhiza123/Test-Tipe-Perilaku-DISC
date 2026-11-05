@@ -21,8 +21,7 @@ Aplikasi web tes kepribadian DISC berbasis **sistem pakar** (Forward Chaining & 
 ## Struktur Repository
 
 ```
-.
-├── index.html   # aplikasi DISC Test
+├── DISC_Test_Lengkap.html   # aplikasi DISC Test
 └── README.md    # dokumentasi ini
 ```
 
