@@ -1,9 +1,6 @@
 # DISC Test - Sistem Pakar Kepribadian
 
 Aplikasi web tes kepribadian DISC berbasis **sistem pakar** (Forward Chaining & Certainty Factor). 
-## 🔗 Akses Aplikasi
-
-**https://Kaydhiza123.github.io/Test-Tipe-Perilaku-DISC/**
 
 ## Fitur
 
